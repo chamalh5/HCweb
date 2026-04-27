@@ -1,2 +1,0 @@
-# HCweb
-my potfolio
